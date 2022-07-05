@@ -1,0 +1,62 @@
+[
+    {
+        "role": "owner",
+        "name": "DaMeister",
+        "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
+    },
+    {
+        "role": "owner",
+        "name": "legoyoshi",
+        "link": "https://www.youtube.com/channel/UCUWOGjjpqgI8s7-Y416PMMw"
+    },
+    {
+        "role": "admin",
+        "name": "MythicalTG",
+        "link": "https://www.youtube.com/c/MythicalTG"
+    },
+    {
+        "role": "helper",
+        "name": "opy",
+        "link": "https://www.youtube.com/channel/UCuPm4ldFrlr24DJXpaefPDw"
+    },
+    {
+        "role": "helper",
+        "name": "Sneze",
+        "link": "https://www.youtube.com/channel/UCsNbCri5wEhOt5nC25L8oWA"
+    },
+    {
+        "role": "helper",
+        "name": "ZakkOfAllTrades",
+        "link": "#"
+    },
+
+        "role": "helper",
+        "name": "Sevant",
+        "link": "#"
+    },
+
+        "role": "helper",
+        "name": "Remy",
+        "link": "#"
+    },
+
+        "role": "helper",
+        "name": "Butterfish",
+        "link": "#"
+    },
+
+        "role": "helper",
+        "name": "GDMeric",
+        "link": "#"
+    },
+
+        "role": "helper",
+        "name": "knali2001",
+        "link": "#"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusCoding/"
+    }
+]
