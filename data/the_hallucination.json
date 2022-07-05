@@ -1,0 +1,17 @@
+{
+    "id": 81139702,
+    "name": "The Hallucination",
+    "author": "SyQual",
+    "creators": ["VoTcHi"],
+    "verifier": "VoTcHi",
+    "verification": "https://youtu.be/tYbXsNkO9HE",
+    "percentToQualify": 45,
+    "password": "220619",
+    "records": [
+	{	
+	    "user": "JHdash77",
+	    "link": "https://youtu.be/O4aiuZvZCas",
+	    "percent": 54,
+	}
+    ]
+}
