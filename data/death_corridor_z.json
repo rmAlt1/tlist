@@ -1,0 +1,22 @@
+{
+    "id": 38403655,
+    "name": "Death Corridor Z",
+    "author": "lSunix",
+    "creators": ["KaotikJumper"],
+    "verifier": "lSunix",
+    "verification": "https://youtu.be/9799msdH394",
+    "percentToQualify": 54,
+    "password": "555888",
+    "records": [
+        {
+            "user": "XylOL",
+            "link": "https://youtu.be/vxip4kT9p_U",
+            "percent": 100,
+        },
+        {
+            "user": "TGM05",
+            "link": "https://www.youtube.com/watch?v=PExQ388Hrck",
+            "percent": 100
+        }
+    ]
+}
