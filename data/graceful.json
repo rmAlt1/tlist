@@ -1,10 +1,16 @@
 {
     "id": 71885708,
     "name": "Graceful",
-    "author": "DagYT",
+    "author": "DaGYT",
     "creators": ["knots", "crescent", "exomin", "gmdpandakun", "ardolf", "zen", "ragle", "galaxxyss", "robotchief", "fss"],
-    "verifier": "DagYT",
+    "verifier": "DaGYT",
     "verification": "https://www.youtube.com/watch?v=aUEiQXEYncc",
     "percentToQualify": 49,
-    "records": []
+    "records": [
+        {
+            "user": "TheUltraBlock",
+            "link": "https://youtu.be/MIibT1jc0pU",
+            "percent": 100
+        }
+    ]
 }
