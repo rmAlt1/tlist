@@ -1,8 +1,8 @@
 {
     "id": 75286957,
     "name": "Shukketsu",
-    "author": "zYuko", "Lexy", "Duke", "Zentraa",
-    "creators": [],
+    "author": "zYuko",
+    "creators": ["Lexy", "Duke", "Zentraa"],
     "verifier": "Baeru",
     "verification": "https://youtu.be/nkG4hKJIz2g",
     "percentToQualify": 61,
