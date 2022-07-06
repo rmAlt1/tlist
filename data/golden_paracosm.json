@@ -18,20 +18,20 @@
             "link": "https://youtu.be/QWjMep1DXFg",
             "percent": 100
         },
-	{
-	    "user": "saturn",
-	    "link": "https://youtu.be/UPoPigesjN4",
-	    "percent": 100
-	},
-	{
-	    "user": "WatchPiggy",
-	    "link": "https://youtu.be/Ury1CfTL32s",
-	    "percent": 100
-	},
-	{
-	    "user": "Arcturus",
-	    "link": "https://youtu.be/qcLTk6Iw_-0"
-	    "percent": 62
-	}
+        {
+	        "user": "saturn",
+	        "link": "https://youtu.be/UPoPigesjN4",
+	        "percent": 100
+	    },
+	    {
+	        "user": "WatchPiggy",
+	        "link": "https://youtu.be/Ury1CfTL32s",
+	        "percent": 100
+	    },
+	    {
+	        "user": "Arcturus",
+	        "link": "https://youtu.be/qcLTk6Iw_-0"
+	        "percent": 62
+	    }
     ]
 }
