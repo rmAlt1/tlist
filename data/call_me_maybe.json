@@ -1,0 +1,31 @@
+{
+    "id": 80178903,
+    "name": "Call Me Maybe",
+    "author": "nothawkyre",
+    "creators": [],
+    "verifier": "LordVadercraft",
+    "verification": "https://youtu.be/Jc-98ND5OJk",
+    "percentToQualify": 51,
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://youtu.be/0G8dTQECdTE",
+            "percent": 100
+        },
+        {
+            "user": "DLAppleGamez",
+            "link": "https://youtu.be/ZLIe7P4xrQE",
+            "percent": 100
+        },
+	{
+	    "user": "Jasuki",
+	    "link": "https://youtu.be/-LDC4i1v4ag",
+	    "percent": 100
+	},
+	{
+	    "user": "Pulse",
+	    "link": "https://youtu.be/8dGoQI6b6HY",
+	    "percent": 100
+	}
+    ]
+}
