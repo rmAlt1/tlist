@@ -1,0 +1,32 @@
+{
+    "id": 57571964,
+    "name": "Fever Dream",
+    "author": "IcEDCave",
+    "creators": [],
+    "verifier": "Dils thik",
+    "verification": "https://youtu.be/EQ70YzoJPp0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TGM05",
+            "link": "https://youtu.be/jgYXpEhr_rE",
+            "percent": 100
+        },
+        {
+            "user": "Idiocy",
+            "link": "https://youtu.be/Rgfzs6HM-eU",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "veshel",
+            "link": "https://youtu.be/tX6zDSBfMUM",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/6Vhc7E3VsjU",
+            "percent": 100
+        }
+    ]
+}
