@@ -1,0 +1,47 @@
+{
+    "id": 78126272,
+    "name": "Phonk Town",
+    "author": "ThunderDarkness",
+    "creators": ["Ohmwise"],
+    "verifier": "LordVadercraft",
+    "verification": "https://youtu.be/6HscjnUGEe4",
+    "percentToQualify": 100,
+    "password": "021422",
+    "records": [
+        {
+            "user": "Galvam",
+            "link": "https://youtu.be/TZE8eqHtHpQ",
+            "percent": 100
+        },
+        {
+            "user": "Ohmwise",
+            "link": "https://youtu.be/48WQogWrY7k",
+            "percent": 100
+        },
+        {
+            "user": "dewlemons",
+            "link": "https://youtu.be/ODyBRFw7ye0",
+            "percent": 100
+        },
+        {
+            "user": "JustAlf",
+            "link": "https://youtu.be/w4AAJMTemL4",
+            "percent": 100
+        },
+        {
+            "user": "RyuDieDragon",
+            "link": "https://youtu.be/RxQObXyyoZY",
+            "percent": 100
+        },
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/NqhvqaDXjV8",
+            "percent": 100
+        },
+        {
+            "user": "JoltGD",
+            "link": "https://youtu.be/Lq8Utp4ouiw",
+            "percent": 100
+        }
+    ]
+}
