@@ -45,8 +45,6 @@ Can I submit Multiple levels on 1 video?
 
 # List Staff Team
 
----
-
 ## List Leaders/Owners:
 
 - DaMeister
