@@ -1,0 +1,26 @@
+{
+    "id": 58578389,
+    "name": "Khorne",
+    "author": "Stilluetto",
+    "creators": ["Hota1991", "Imaze", "TiO2"],
+    "verifier": "Spaace",
+    "verification": "https://youtu.be/_ProlqC_fZQ",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Kiwi1938",
+	    "link": "https://youtu.be/YUIA06AlTQA",
+	    "percent": 100
+	},
+	{
+	    "user": "reoode",
+	    "link": "https://youtu.be/06K_xyIDSE0",
+	    "percent": 100
+	},
+	{
+	    "user": "Vikings",
+	    "link": "https://youtu.be/sXLidpU30co",
+	    "percent": 100
+	}
+    ]
+}
