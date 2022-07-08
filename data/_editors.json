@@ -15,6 +15,11 @@
         "link": "https://www.youtube.com/c/MythicalTG"
     },
     {
+        "role": "admin",
+        "name": "Sevant",
+        "link": "https://www.youtube.com/c/Sevant"
+    },
+    {
         "role": "helper",
         "name": "opy",
         "link": "https://www.youtube.com/channel/UCuPm4ldFrlr24DJXpaefPDw"
@@ -27,32 +32,37 @@
     {
         "role": "helper",
         "name": "ZakkOfAllTrades",
-        "link": "#"
-    },
-    {
-        "role": "helper",
-        "name": "Sevant",
-        "link": "#"
+        "link": "https://www.youtube.com/channel/UCZV0hygw7GpgTYG5OeDyDqQ"
     },
     {
         "role": "helper",
         "name": "Remy",
-        "link": "#"
+        "link": "https://www.youtube.com/c/Remyy"
     },
     {
         "role": "helper",
         "name": "Butterfish",
-        "link": "#"
+        "link": "https://www.youtube.com/c/ButterFish"
     },
     {
         "role": "helper",
         "name": "GDMeric",
-        "link": "#"
+        "link": "https://www.youtube.com/channel/UC_HNfYTOKS5DT31sirVoHWQ"
     },
     {
         "role": "helper",
         "name": "knali2001",
-        "link": "#"
+        "link": "https://www.youtube.com/c/Knali2001"
+    },
+    {
+        "role": "helper",
+        "name": "KylashTheKiller",
+        "link": "https://www.youtube.com/channel/UC5yNvk0F1BtkXpbEbXAQ17Q"
+    },
+    {
+        "role": "helper",
+        "name": "LordVadercraft",
+        "link": "https://www.youtube.com/channel/UC3nBHl-6j4Dcio7Mu4OFG2w"
     },
     {
         "role": "dev",
