@@ -6,5 +6,11 @@
     "verifier": "Combi",
     "verification": "https://youtu.be/QqzMg9mkM2A?t=16091",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Roldan and Mauro",
+            "link": "https://youtu.be/bXCB7NzbsTM",
+            "percent": 100
+        }
+    ]
 }
