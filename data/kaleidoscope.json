@@ -1,10 +1,16 @@
 {
     "id": 78171864,
-    "name": "Kaleidoscope",
+    "name": "Kaleidoscopic",
     "author": "ButterFish",
     "creators": ["Xion"],
     "verifier": "ButterFish",
     "verification": "https://youtu.be/dXo5rGPu9zY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "WatchPiggy",
+            "link": "https://www.youtube.com/watch?v=dIi5w1DxlNY",
+            "percent": 100
+        }
+    ]
 }
