@@ -15,7 +15,7 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
     let maximum_points = 250; //change this to change points of top 1
-    let score = ((20 * maximum_points + 1000) / Math.sqrt(2 * (rank-1) + 400) - 50)*
+    let score = ((140 * maximum_points + 7000) / Math.sqrt(3157 * (rank-1) + 19600) - 50)*
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
