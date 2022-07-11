@@ -1,0 +1,16 @@
+{
+    "id": 62176581,
+    "name": "Astaroth",
+    "author": "8BitFudge",
+    "creators": ["tomi"],
+    "verifier": "vinny",
+    "verification": "https://youtu.be/pd9Z5v2dyiE",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "joeingly",
+	    "link": "https://youtu.be/J_bu76lYjiA",
+	    "percent": 100
+	}
+    ]
+}
