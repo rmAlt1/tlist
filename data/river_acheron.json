@@ -1,0 +1,16 @@
+{
+    "id": 68408765,
+    "name": "River Acheron",
+    "author": "CSTeam",
+    "creators": ["Cylyrii", "vLunar"],
+    "verifier": "nac",
+    "verification": "https://youtu.be/rBl9LoeClwc",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Zeronium",
+	    "link": "https://youtu.be/EL_XP5dA2qA",
+	    "percent": 100
+	},
+    ]
+}
