@@ -1,0 +1,22 @@
+{
+    "id": 75351763,
+    "name": "Psychotomimetic",
+    "author": njacked",
+    "creators": ["TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/xRPg4xr8A-c",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/KSuGXJypm8k",
+            "percent": 100
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/upBoi1kKMVQ",
+            "percent": 100
+        }
+    ]
+}
