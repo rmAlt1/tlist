@@ -6,5 +6,11 @@
     "verifier": "SeptaGon7",
     "verification": "https://www.youtube.com/watch?v=3N7VtDDnjlM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "jcak",
+            "link": "https://youtu.be/r_nWighOIpM",
+            "percent": 100
+        }
+    ]
 }
