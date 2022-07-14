@@ -3,8 +3,29 @@
     "name": "Belic",
     "author": "Ozpectro",
     "creators": [],
-    "verifier": "Ozpectro (No footage)",
+    "verifier": "Stormfly",
     "verification": "https://www.youtube.com/watch?v=8oOQsSB_YW0",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Jacob Firestone",
+            "link": "https://www.youtube.com/watch?v=eSJ9FAuMaT0",
+            "percent": 100
+        },
+        {
+            "user": "Temporum",
+            "link": "https://youtu.be/6JUZYaTNfKo",
+            "percent": 100
+        },
+        {
+            "user": "DiamondSplash",
+            "link": "https://youtu.be/692mQrEYv-w",
+            "percent": 100
+        },
+        {
+            "user": "GMD soonDae",
+            "link": "https://youtu.be/seqQDi9zWss",
+            "percent": 100
+        }
+    ]
 }
