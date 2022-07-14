@@ -1,10 +1,16 @@
 {
     "id": 49197336,
     "name": "Catharsis",
-    "author": "Voltrix",
-    "creators": ["Voltrix","Imasu","Xiejra","F5night","Adelx","Culuc","Arctica","Banna"],
-    "verifier": "zYuko",
-    "verification": "https://www.youtube.com/watch?v=HjcVqTdjEt8",
+    "author": "GD VoltriX",
+    "creators": ["Imasu","Xiejra","F5night","Adelx","Culuc","Arctica","Banna"],
+    "verifier": "MrDash",
+    "verification": "https://youtu.be/S9a7UieNtus",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "KatelynWaffles",
+            "link": "https://www.youtube.com/watch?v=Fi_UhBv4t1o",
+            "percent": 100
+        }
+    ]
 }
