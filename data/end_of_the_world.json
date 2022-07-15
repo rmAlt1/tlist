@@ -6,5 +6,16 @@
     "verifier": "Luqualizer",
     "verification": "https://youtu.be/1Ta3AznKVPA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Spamdrew128",
+            "link": "https://youtu.be/fWydbtadV6A",
+            "percent": 100
+        },
+        {
+            "user": "Sevant",
+            "link": "https://youtu.be/yqr0TgUohBk",
+            "percent": 100
+        }
+    ]
 }
