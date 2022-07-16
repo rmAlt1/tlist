@@ -6,5 +6,11 @@
     "verifier": "1woi",
     "verification": "https://youtu.be/tubJZ0P7s1k",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ZBosGaming",
+            "link": "https://youtu.be/Wwc9Ci_oRR0",
+            "percent": 100
+        }
+    ]
 }
