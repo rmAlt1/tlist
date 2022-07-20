@@ -6,5 +6,16 @@
     "verifier": "Wolvez",
     "verification": "https://youtu.be/-6AOn-o7mQo",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+	    "user": "Rydon",
+	    "link": "https://youtu.be/_BOOBIlZ9n4",
+	    "percent": 100
+	},
+    {
+	    "user": "Tizetre",
+	    "link": "https://youtu.be/OKxh2kKrtfE",
+	    "percent": 100
+	}
+    ]
 }
