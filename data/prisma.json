@@ -1,0 +1,26 @@
+{
+    "id": 81754967,
+    "name": "Prisma",
+    "author": "CooperSuper8",
+    "creators": ["MrBudgie", "ThunderBT", "DFGames", "Rinex04", "Moone", "GDNick2", "MiniWheatDuo", "GDSkele", "XLGamer10", "Garbadoo", "Turbo868", "Sp3", "ChazTCC", "dreamtide", "Synd", "Hilo", "GeeWilikers", "Batle", "Ender", "Doggo", "Avati", "Toasted", "Nell", "CarlosArt16", "Amp1ify", "Blastblock", "Ninx", "Chosbar", "Rei", "SilverDynamix", "Onii", "Undying", "Fluffy", "Gren", "Pollastre", "Kyuss", "Sorext", "HyperBlastz"],
+    "verifier": "CooperSuper8",
+    "verification": "https://youtu.be/feMj66huRR8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "CobraBlitz",
+            "link": "https://youtu.be/0-DUsaSw93Q",
+            "percent": 100
+        },
+        {
+            "user": "MrBudgie",
+            "link": "https://youtu.be/ZC1wpNhYwP0",
+            "percent": 100
+        },
+        {
+            "user": "SubZeroV",
+            "link": "https://youtu.be/MnQwsJhCiBo",
+            "percent": 100
+        }
+    ]
+}
