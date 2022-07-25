@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "JakeSJ",
+            "link": "https://www.youtube.com/watch?v=6JUZYaTNfKo",
+            "percent": 100
+        },
+        {
             "user": "Jacob Firestone",
             "link": "https://www.youtube.com/watch?v=eSJ9FAuMaT0",
             "percent": 100
