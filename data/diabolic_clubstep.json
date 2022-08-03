@@ -6,5 +6,16 @@
     "verifier": "Sevant",
     "verification": "https://www.youtube.com/watch?v=BN7DxkMaQfg",
     "percentToQualify": 49,
-    "records": []
+    "records": [
+        {
+            "user": "MagYT",
+            "link": "https://youtu.be/oYs72WhyvgE",
+            "percent": 49
+        },
+        {
+            "user": "Adri420",
+            "link": "https://youtu.be/S30PyYDel9A",
+            "percent": 49
+        }
+    ]
 }
