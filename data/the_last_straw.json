@@ -1,0 +1,41 @@
+{
+    "id": 33055001,
+    "name": "The Last Straw",
+    "author": "Metalface221",
+    "creators": ["Turtle", "Viridian", "Goz", "Bianox", "Talduz", "Tendesires", "Cyphx", "Tyguy", "Cyrillic"],
+    "verifier": "Metalface221",
+    "verification": "https://youtu.be/H1vLDNMzH-Q",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Luquadlizer",
+	    "link": "https://youtu.be/PGSFHB9LSIU",
+            "percent": 100
+	},
+	{
+	    "user": "Gabs",
+	    "link": "https://youtu.be/KhGFCkbjDZc",
+            "percent": 100
+	},
+	{
+	    "user": "OrangeStorm",
+	    "link": "https://youtu.be/z00vLymuPDU",
+            "percent": 100
+	},
+	{
+	    "user": "HequinoX",
+	    "link": "https://youtu.be/aDEbQFt8Zcc",
+            "percent": 100
+	},
+	{
+	    "user": "Sevant",
+	    "link": "https://youtu.be/GyQW87kWU6U",
+            "percent": 100
+	},
+	{
+	    "user": "cosmy",
+	    "link": "https://youtu.be/cUW1unBUJPw",
+            "percent": 100
+	}
+    ]
+}
