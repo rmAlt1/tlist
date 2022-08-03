@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/Xvfe3OLoWfE",
     "percentToQualify": 100,
     "password": "151017",
-    "records": []
+    "records": [
+        {
+	    "user": "reruchoupie",
+	    "link": "https://www.youtube.com/watch?v=JEroDhSBsfM",
+            "percent": 100
+	}
+    ]
 }
