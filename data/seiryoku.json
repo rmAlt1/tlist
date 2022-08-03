@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/LiGP8LtGdnM",
     "percentToQualify": 100,
     "password": "300513",
-    "records": []
+    "records": [
+        {
+            "user": "Micro",
+            "link": "https://youtu.be/qFjihIMpoKc",
+            "percent": 100
+        },
+    ]
 }
