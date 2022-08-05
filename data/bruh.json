@@ -6,5 +6,11 @@
     "verifier": "Dr4QuiTo",
     "verification": "https://youtu.be/r3DqNQfOLLQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Emiliano56",
+            "link": "https://youtu.be/-z8YIKm1uD8",
+            "percent": 100
+        }
+    ]
 }
